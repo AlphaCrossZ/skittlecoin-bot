@@ -194,4 +194,4 @@ async def pay(ctx,member:discord.Member,amount=None):
 
 
 keep_alive()
-client.run("OTM2NzEzNTA5MTc2MjE3NzEx.YfRMbw.nmtbllYfUzQkg5iW10UIWW1QjlA")
+client.run("put your token here!")
